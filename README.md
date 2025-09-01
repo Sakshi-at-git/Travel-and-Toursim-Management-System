@@ -29,7 +29,7 @@ cd Travel-and-Toursim-Management-System
 - Import the provided SQL file into your MySQL database.
 
 
-![Project Screenshot]
+# Project Screenshot
 
 
 ![WhatsApp Image 2025-09-01 at 15 53 31_8fd7bf38](https://github.com/user-attachments/assets/250c1e0c-27ec-415a-9e89-e34a664067bf)
