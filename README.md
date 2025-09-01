@@ -1,9 +1,9 @@
-# Travel and Tourism Management System
+# 🧳 Travel and Tourism Management System
 
 ## Overview
 A desktop-based Travel and Tourism Management System developed using Core Java (AWT & Swing) with MySQL as the backend. It streamlines the operations of a travel agency, making booking, managing packages, and handling customer details seamless and efficient.
 
-## Features
+## ✨ Features
 - User authentication (login, signup, forgot password).
 - Manage and book travel packages.
 - Handle customer records and booking details.
@@ -11,7 +11,7 @@ A desktop-based Travel and Tourism Management System developed using Core Java (
 - View and update personal profiles.
 - Provides package cancellation and progress tracking.
 
-## Technologies Used
+## 🛠️ Technologies Used
 - **Language:** Java (AWT & Swing)  
 - **Database:** MySQL
 
@@ -29,7 +29,7 @@ cd Travel-and-Toursim-Management-System
 - Import the provided SQL file into your MySQL database.
 
 
-# Project Screenshot
+# 🖼️ Project Screenshot
 
 
 ![WhatsApp Image 2025-09-01 at 15 53 31_8fd7bf38](https://github.com/user-attachments/assets/250c1e0c-27ec-415a-9e89-e34a664067bf)
