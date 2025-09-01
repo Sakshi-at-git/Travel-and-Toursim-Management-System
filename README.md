@@ -17,8 +17,8 @@ A desktop-based Travel and Tourism Management System developed using Core Java (
 
 ## 🔧 Setup Instructions
 ### Clone the Repository
-git clone 
-https://github.com/kunaltyagi9/Travel-and-Toursim-Management-System.git
+#### git clone 
+https://github.com/Sakshi-at-git/Travel-and-Toursim-Management-System.git
 
 cd Travel-and-Toursim-Management-System
 
